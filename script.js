@@ -26,7 +26,7 @@ function pokazuj (){
 
 let rande = Math.floor(Math.random()*quotes.length);
 console.log(rande);
-//problem: losowe liczby nie mogą się powtarzać
+//problem: losowe liczby nie mogą się powtarzać do zrobienia next
 
 //quotee.innerHTML = `${quotes[1].quote}`;
 //quotee.innerHTML = `${quotes[rande].quote}`;
