@@ -5,7 +5,7 @@ body {
     justify-content: center;
     text-transform: capitalize;
     font-family: work sans, sans-serif;
-    background: white;
+    background: #1bc522;
 }
 
 .main {
@@ -32,7 +32,7 @@ cursor: pointer;
 }
 
 blockquote {
-    background: #c7c1c1;
+    background: ##1bc522;
     border-left: 2px solid rgb(77, 92, 221);
 
 }
