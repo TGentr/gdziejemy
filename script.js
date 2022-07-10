@@ -1,19 +1,19 @@
 const quotes = [
     {
-        name: 'Wielka 23/2',
-        quote: 'Vegab',
+        name: 'adres 1',
+        quote: 'Test1',
     },
     {
-        name: 'Piekary 17',
-        quote: 'miXtura',
+        name: 'adres 2',
+        quote: 'Test2',
     },
     {
-        name: 'Limanowskiego 2',
-        quote: 'Vege Pizza',
+        name: 'adres 3',
+        quote: 'Test3',
     },
     {
-        name: '23 Lutego 29/33',
-        quote: 'Porażka',
+        name: 'adres 4',
+        quote: 'Test4',
     },
     ]
     
