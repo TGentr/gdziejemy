@@ -5,7 +5,7 @@ body {
     justify-content: center;
     text-transform: capitalize;
     font-family: work sans, sans-serif;
-    background: #20c126;
+    background: #8320c1;
     margin: 0;
 }
 
@@ -38,7 +38,7 @@ body {
     font-family: 'poppins', sans-serif;
     font-size: 13vw;
     font-weight: 800;
-    color: #20c126;
+    color: #8320c1;
     
     line-height: 10vw;
     position: absolute;
@@ -70,7 +70,7 @@ position: relative;
     transition: 0.2s ease-in-out;
 }
 #wybierz {
-    color: #20c126;
+    color: #8320c1;
     outline: none;
     border: none;
     background: white;
